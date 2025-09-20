@@ -1,8 +1,4 @@
-Here’s a GitHub **README.md** based on the Google Codelab *How to deploy a secure MCP server on Cloud Run*. You can adapt as needed (e.g. update project names, regions etc).
 
----
-
-```markdown
 # Zoo MCP Server on Cloud Run
 
 This project shows how to build and deploy a **secure Model Context Protocol (MCP)** server using **FastMCP** on **Google Cloud Run**. It includes tools for querying zoo animals by species and getting details for individual animals. The server is set up to require authentication so only authorized clients can invoke its tools.
